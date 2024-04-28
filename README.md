@@ -1,0 +1,4 @@
+# Fitness-center-database-management-
+● The Fitness Center Management System is a simple PHP/MySQLi project that manages a fitness gym business memberships and payments records. The system stores the fitness gym membership plans, packages, and trainers.
+● The Fitness Center management system allows easy tracking of membership details including personal information, plans, and expiration; ensures accurate payment monitoring; supports customizable plans and packages for various gym models; also stores trainer information.
+● The Fitness Center Management System’s intuitive interface reduces administrative overhead, its robust database ensures accurate recordKeeping, and its efficient management of memberships and its efficient management of memberships and trainers enhances customer retention and satisfaction.
